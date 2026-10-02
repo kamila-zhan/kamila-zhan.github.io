@@ -1,18 +1,18 @@
 # Site settings
-title: TB
+title: KZ
 baseurl: "/"
 url: "https://kamila-zhan.github.io"
 
 # Author
 author:
-  name: Kamila Zhanuzak
-  desc: Psychology Trainer
+  name: Жанузак Камила
+  desc: Гид по психологической самопомощи
   email: kzhanuzak8@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
 social:
-  email: true
+  email:
   behance:
   bitbucket:
   dribbble:
