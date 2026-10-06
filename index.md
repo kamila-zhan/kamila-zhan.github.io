@@ -34,11 +34,11 @@ layout: about
 
 ### Контакты для записи
 
-Телеграм: @KamilaZhan  
+Телеграм: **[@KamilaZhan](https://t.me/KamilaZhan)**    
 
-Почта: kzhanuzak8@gmail.com  
+WhatsApp: **[+7 776 204 5001](https://wa.me/77762045001)**
 
-WhatsApp: +7 776 204 5001
+Почта: kzhanuzak8@gmail.com
 
 ### Образование
 
